@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichTextEditorFileManager", "RichTextEditorFileManager.csproj", "{9F63F83B-B200-4A43-B5D3-6AACB7ED3346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F63F83B-B200-4A43-B5D3-6AACB7ED3346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F63F83B-B200-4A43-B5D3-6AACB7ED3346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F63F83B-B200-4A43-B5D3-6AACB7ED3346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F63F83B-B200-4A43-B5D3-6AACB7ED3346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94A45539-48ED-4EB9-9BA0-154FA46A99B6}
+	EndGlobalSection
+EndGlobal
